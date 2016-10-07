@@ -1,30 +1,6 @@
-Agency Jekyll theme
-====================
+My Portfolio Page
+Check out [lilhandsbgdreams.github.io](https://lilhandsbgdreams.github.io/) to see what I've been working on.
+Thanks for stopping by!
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
-
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+---
+Built using the [Agengency Theme for Jekyll](https://github.com/y7kim/agency-jekyll-theme)
