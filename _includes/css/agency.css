@@ -730,6 +730,15 @@ footer span.copyright {
     line-height: 40px;
 }
 
+/* added this class for the credits I added to the footer*/
+footer span.credit {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-transform: none;
+    font-family: {{ site.data.template.font.primary }};
+    line-height: 40px;
+}
+
 footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;

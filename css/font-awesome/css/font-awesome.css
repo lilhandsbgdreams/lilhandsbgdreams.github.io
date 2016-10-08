@@ -535,8 +535,8 @@
 .fa-retweet:before {
   content: "\f079";
 }
-.fa-shopping-cart:before {
-  content: "\f07a";
+.fa-html5:before {
+  content: "\f13b";
 }
 .fa-folder:before {
   content: "\f07b";
@@ -921,7 +921,7 @@
   content: "\f108";
 }
 .fa-laptop:before {
-  content: "\f109";
+  content: "\f13c";
 }
 .fa-tablet:before {
   content: "\f10a";
