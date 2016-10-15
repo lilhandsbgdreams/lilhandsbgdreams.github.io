@@ -3,8 +3,8 @@ title: FreeStudy
 subtitle: Connecting visitors with free online resources for self-directed learning. Made with HTML, CSS, JS, PHP, Heroku
 layout: default
 modal-id: 2
-link: https://github.com/lilhandsbgdreams
-github: https://github.com/lilhandsbgdreams
+link: https://github.com/lilhandsbgdreams/free-study
+github: https://github.com/lilhandsbgdreams/free-study
 thumbnail: under-construction.jpg
 alt: image-alt
 category: Web Development
