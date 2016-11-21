@@ -1,6 +1,6 @@
 ---
 title: Free Study
-subtitle: Connecting visitors with free online resources for self-directed learning. Made with HTML, CSS, Jekyll
+subtitle: Connecting visitors with free online resources for self-directed learning. <br><i class="fa fa-wrench"></i> HTML, CSS, Jekyll
 layout: default
 modal-id: 2
 link: https://lilhandsbgdreams.github.io/free-study/

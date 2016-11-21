@@ -1,6 +1,6 @@
 ---
 title: Porfolio Website
-subtitle: This website! Made with HTML, CSS, Markdown, Jekyll
+subtitle: This website! <br><i class="fa fa-wrench"></i> HTML, CSS, Markdown, Jekyll
 layout: default
 modal-id: 3
 link: https://lilhandsbgdreams.github.io/
